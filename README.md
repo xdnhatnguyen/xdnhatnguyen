@@ -1,7 +1,7 @@
 ## Hi there,
 I am an IT student at VNUHCM-US.  
 My research interests lie in the intersection of Stochastic Differential Equations and Deep Learning, specifically developing Conditional Image Generation models using Diffusion and Flow Matching frameworks.  
-👉 My blog is right here: xdnhatnguyen.github.io
+👉 My blog is right here: [xdnhatnguyen.github.io](https://xdnhatnguyen.github.io/)
 <!--
 **xdnhatnguyen/xdnhatnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
