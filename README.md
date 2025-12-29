@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there,
+I am an IT student at VNUHCM-US.  
+My research interests lie in the intersection of Stochastic Differential Equations and Deep Learning, specifically developing Conditional Image Generation models using Diffusion and Flow Matching frameworks.  
+👉 My blog is right here: xdnhatnguyen.github.io
 <!--
 **xdnhatnguyen/xdnhatnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Contributions
+[🎮 Caro Game](https://github.com/shouko69/Tic-Tac-Toe-Project/tree/mnhat_minimax---based-on-Phong7)
+: Contributed to the Minimax AI logic and optimized the win-check algorithm.   
+[🤖 MIT 6.S184 Study](https://github.com/xdnhatnguyen/MIT-6.S184-Generative-AI-with-Stochastic-Differential-Equations-2025)
+: Translating research papers and implementing SDE solvers.  
+[✏ Digits Classification Project](https://github.com/xdnhatnguyen/Digits-Classification-Project):
+Team Lead | CNN vs. MLP benchmark for digit recognition (analyze model performance and architectural trade-offs).  
