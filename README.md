@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 [✏ Digits Classification Project](https://github.com/xdnhatnguyen/Digits-Classification-Project):
 Team Lead | CNN vs. MLP benchmark for digit recognition (analyze model performance and architectural trade-offs).  
 
-[My knowledge T.T](https://github.com/xdnhatnguyen/math-and-ml-learning-materials)
+[T.T](https://github.com/xdnhatnguyen/math-and-ml-learning-materials)
 
