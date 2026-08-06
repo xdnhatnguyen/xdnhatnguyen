@@ -20,9 +20,8 @@ const ashraf = {
         kuku: ["kaka", "koko"]
     },
     architecture: ["hehe"],
-    blog: ["[block blog block blog hehe](https://xdnhatnguyen.github.io/)"],
 }
 ```
-
+my blog = hoho ["hehe"](https://xdnhatnguyen.github.io/)
 ---
 
