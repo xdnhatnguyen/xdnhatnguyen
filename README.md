@@ -22,6 +22,6 @@ const mnhat = {
     architecture: ["hehe"],
 }
 ```
-my blog = hoho ["hehe"](https://xdnhatnguyen.github.io/)
+my blog = hoho[.](https://xdnhatnguyen.github.io/)
 ---
 
