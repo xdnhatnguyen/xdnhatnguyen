@@ -1,6 +1,9 @@
 
-
+```
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJxdWo4aWQ5MHl6bzk3OTZtN3dxOTJ2czYwaTRjZjVkdHQ3cHE0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AMVOnfWpJfQ5LvLv6t/giphy.gif" width="230">
+```
+
+<img align="right" src="https://githubusercontent.com/xdnhatnguyen/xdnhatnguyen/main/assets/hi_lizard_meme.gif" width="230">
 
 ## Hi there, I'm Nhat Nguyen
 I'm a first-year CS student at HCMUS.
