@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-nhatnguyen-blue)](https://www.linkedin.com/in/xdnhatnguyen/)
 [![](https://img.shields.io/badge/Gmail-nhatnguyen%40gmail.com-red)](mailto:nhat33219@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=xdnhatnguyen&color=brightgreen)
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtmYzhhcWJvd3owZWdrdm05YzNveXhjOHB3YXNwZzA1dXFtM2JkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VeTIkcoBeync63rDWy/giphy.gif" width="50"> A little more about me...  
 
@@ -18,6 +18,7 @@ const mnhat = {
     technologies:{
         haha: ["hehe", "hoho", "kiki"],
         kuku: ["kaka", "koko"]
+        
     },
     architecture: ["hehe"],
 }
