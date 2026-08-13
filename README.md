@@ -17,8 +17,8 @@ const mnhat = {
     askMeAbout: ["ai", "cv", "dl"],
     technologies:{
         haha: ["hehe", "hoho", "kiki"],
-        kuku: ["kaka", "koko"]
-        
+        kuku: ["kaka", "koko"],
+        exploring: ["AI", "Computer Vision", "Agentic AI", "Information Retrieval"],
     },
     architecture: ["hehe"],
 }
