@@ -1,28 +1,50 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&background=FFFFFF00&center=true&vCenter=true&width=435&lines=nhat+nguyen+%3A));be+cringe%2C+be+happy" alt="Typing SVG" /></a>
 
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="230">
-
+<img align='right' src="https://media.gifdb.com/close-up-of-green-frog-face-with-big-eyes-qe1xksk0tdqlrl54.gif" width="230">
 ## Hi there, I'm Nhat Nguyen
-## Undergraduate Skibidi-Researcher // Aiming to become CV engineer 👨‍💻
+I'm a first-year CS student at HCMUS.
+I'm an independent researcher and aim to become a Computer Vision engineer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nhatnguyen-blue)](https://www.linkedin.com/in/xdnhatnguyen/)
 [![](https://img.shields.io/badge/Gmail-nhatnguyen%40gmail.com-red)](mailto:nhat33219@gmail.com)
 ![](https://komarev.com/ghpvc/?username=xdnhatnguyen&color=brightgreen)
+---
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtmYzhhcWJvd3owZWdrdm05YzNveXhjOHB3YXNwZzA1dXFtM2JkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VeTIkcoBeync63rDWy/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```python
 const mnhat = {
     pronouns: "He" | "Him",
-    askMeAbout: ["ai", "cv", "dl"],
+    askMeAbout: "anything u want",
     technologies:{
-        haha: ["hehe", "hoho", "kiki"],
-        kuku: ["kaka", "koko"],
-        exploring: ["AI", "Computer Vision", "Agentic AI", "Information Retrieval"],
+        exploring: ["AI", "Computer Vision", "Information Retrieval"],
+        excited_in: ["Deep Learning", "Finance", "Mathematical Problem"]
     },
     architecture: ["hehe"],
 }
-```
-my blog = hoho[.](https://xdnhatnguyen.github.io/)
----
 
+```
+### Check out my technical blog[!](https://xdnhatnguyen.github.io/)
+---
+### Program/Markup/Style Sheet Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+</div>
+
+### CV/DL Frameworks/Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+<div id="END" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="500" height="500"/>
+</div>
