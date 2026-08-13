@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&background=FFFFFF00&center=true&vCenter=true&width=435&lines=nhat+nguyen+%3A));be+cringe%2C+be+happy" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&background=FFFFFF00&center=true&vCenter=true&width=435&lines=nhat+nguyen+%3A));be+cringe%2C+be+happy" alt="Typing SVG" /></a>
 
-<img align='right' src="https://media.gifdb.com/close-up-of-green-frog-face-with-big-eyes-qe1xksk0tdqlrl54.gif" width="230">
+<img align='right' src="" width="230">
 ## Hi there, I'm Nhat Nguyen
 I'm a first-year CS student at HCMUS.
 I'm an independent researcher and aim to become a Computer Vision engineer 👨‍💻
@@ -46,5 +46,5 @@ const mnhat = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 <div id="END" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="500" height="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="500" height="400"/>
 </div>
