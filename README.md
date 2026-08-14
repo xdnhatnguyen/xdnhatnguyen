@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Nhat Nguyen
 I'm a first-year CS student at HCMUS.  
-I'm an independent researcher and aim to become a Computer Vision engineer 👨‍💻
+I'm an independent researcher and aim to become a ~~AI/CV engineer~~ loops designer! 👨‍💻
 <img align="right" src="https://raw.githubusercontent.com/xdnhatnguyen/xdnhatnguyen/main/assets/hi_lizard_meme.gif" width="230">
 
 
