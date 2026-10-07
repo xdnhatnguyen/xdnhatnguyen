@@ -7,7 +7,7 @@
 
 
 ## Hi there, I'm Nhat Nguyen
-I'm a first-year CS student at HCMUS.  
+I'm a second-year CS student at HCMUS.  
 I'm an independent researcher and aim to become a ...! 👨‍💻
 <img align="right" src="https://raw.githubusercontent.com/xdnhatnguyen/xdnhatnguyen/main/assets/hi_lizard_meme.gif" width="230">
 
