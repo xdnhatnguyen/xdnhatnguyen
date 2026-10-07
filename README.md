@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Nhat Nguyen
 I'm a first-year CS student at HCMUS.  
-I'm an independent researcher and aim to become a ~~AI/CV engineer~~ loops designer! 👨‍💻
+I'm an independent researcher and aim to become a ...! 👨‍💻
 <img align="right" src="https://raw.githubusercontent.com/xdnhatnguyen/xdnhatnguyen/main/assets/hi_lizard_meme.gif" width="230">
 
 
@@ -55,5 +55,7 @@ const mnhat = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 <div id="END" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="500" />
+<!--
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkdGFiNzQ3YjJnbXczaWhyZXI1MHVybWx1YWMxNHQzeXBsbGJvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Utyht5xx45tL0geEGi/giphy.gif" width="500" />
+-->
 </div>
